@@ -1,0 +1,395 @@
+Right angle triangle using number(rows)
+--------------------------------------
+1
+22
+333
+4444
+55555
+Right angle triangle using numbers(column)
+-------------------------------------------
+0
+01
+012
+0123
+01234
+Right angle triangle using *(rows)
+-------------------------------------------
+*
+**
+***
+****
+*****
+Inverse right angled triangle using numbers(row)
+----------------------------------------------------
+666666
+55555
+4444
+333
+22
+1
+Inverse right angled triangle using numbers(column)
+----------------------------------------------------
+012345
+01234
+0123
+012
+01
+0
+Right angled triangle in upper case(row)
+---------------------------------------------
+A
+KK
+SSS
+HHHH
+AAAAA
+RRRRRR
+AAAAAAA
+Right angled triangle in lower case(row)
+--------------------------------------------------------
+a
+kk
+sss
+hhhh
+aaaaa
+rrrrrr
+aaaaaaa
+Inverse right angle triangle uppercase(column)
+---------------------------------------------------
+AKSHAR
+AKSHA
+AKSH
+AKS
+AK
+A
+
+
+Inverse right angle triangle lowercase(column)
+---------------------------------------------------
+akshara
+akshar
+aksha
+aksh
+aks
+ak
+a
+
+Inverse right angle triangle lowercase(row)
+---------------------------------------------------
+a
+kk
+sss
+hhhh
+aaaaa
+rrrrrr
+aaaaaaa
+Right angle triangle using upper case alphabet(row)
+-------------------------------------------------------------------
+
+A
+BB
+CCC
+DDDD
+EEEEE
+Right angle triangle suing lower case alphabet(row)
+--------------------------------------------------------------------------
+
+a
+bb
+ccc
+dddd
+eeeee
+Right angle triangle using upper case alphabet(col)
+-------------------------------------------------------------------
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+Right angle triangle suing lower case alphabet(col)
+--------------------------------------------------------------------------
+a
+bb
+ccc
+dddd
+eeeee
+ffffff
+Inverse right angle triangle using upper case alphabet(row)
+-------------------------------------------------------------------
+AAAAAAA
+BBBBBB
+CCCCC
+DDDD
+EEE
+FF
+
+Left angled triangle using number(row)
+--------------------------------------------
+      
+     1
+    22
+   333
+  4444
+ 55555
+
+left angle triangle with numbers(column)
+--------------------------------------------
+       
+      0
+     01
+    012
+   0123
+  01234
+ 012345
+
+left angle triangle with star
+      
+     *
+    **
+   ***
+  ****
+ *****
+
+Left angle triangle using name(row)
+--------------------------------------------
+       a
+      kk
+     sss
+    hhhh
+   aaaaa
+  rrrrrr
+ aaaaaaa
+
+Left angle triangle using name(upper-row)
+--------------------------------------------------
+       A
+      KK
+     SSS
+    HHHH
+   AAAAA
+  RRRRRR
+ AAAAAAA
+
+Left angle triangle using name(col)
+--------------------------------------------
+       a
+      ak
+     aks
+    aksh
+   aksha
+  akshar
+ akshara
+
+Left angle triangle using name(upper-column)
+---------------------------------------------------
+       A
+      AK
+     AKS
+    AKSH
+   AKSHA
+  AKSHAR
+ AKSHARA
+
+left angle triangle with upper case alphabets(row)
+-----------------------------------------------
+     
+    65
+   6565
+  656565
+ 65656565
+
+Inverse left angled triangle using number(row)
+--------------------------------------------
+666666
+ 55555
+  4444
+   333
+    22
+     1
+
+Inverse left angled triangle using number(column)
+--------------------------------------------
+01234
+ 0123
+  012
+   01
+    0
+     
+
+inverse left angle triangle with star
+******
+ *****
+  ****
+   ***
+    **
+     *
+
+inverse left angle triangle with name upper case(row)
+----------------------------------------------------------
+      AAAAAAA
+      RRRRRR
+      AAAAA
+      HHHH
+      SSS
+      KK
+      A
+Right angle triangle using numbers(column)
+-------------------------------------------
+0
+01
+012
+0123
+01234
+Right angle triangle using *(rows)
+-------------------------------------------
+*
+**
+***
+****
+*****
+Inverse right angled triangle using numbers(row)
+----------------------------------------------------
+666666
+55555
+4444
+333
+22
+1
+
+pyramid using numbers(row)
+-----------------------
+      
+     1 
+    2 2 
+   3 3 3 
+  4 4 4 4 
+ 5 5 5 5 5 
+Inverse right angled triangle using numbers(row)
+----------------------------------------------------
+666666
+55555
+4444
+333
+22
+1
+
+pyramid using numbers(col)
+-----------------------
+      
+     1 
+    1 2 
+   1 2 3 
+  1 2 3 4 
+ 1 2 3 4 5 
+
+pyramid using star
+-----------------------
+      
+     * 
+    * * 
+   * * * 
+  * * * * 
+ * * * * * 
+
+inverse pyramid using star
+-----------------------
+* * * * * * 
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+
+inverse pyramid using numbers(col)
+-----------------------
+1 2 3 4 5 6 
+ 1 2 3 4 5 
+  1 2 3 4 
+   1 2 3 
+    1 2 
+     1 
+
+inverse pyramid using numbers(row)
+-----------------------
+6 6 6 6 6 6 
+ 5 5 5 5 5 
+  4 4 4 4 
+   3 3 3 
+    2 2 
+     1 
+
+pyramid using name(row)
+-----------------------
+       A 
+      K K 
+     S S S 
+    H H H H 
+   A A A A A 
+  R R R R R R 
+ A A A A A A A 
+
+pyramid using name(col)
+-----------------------
+       A 
+      A K 
+     A K S 
+    A K S H 
+   A K S H A 
+  A K S H A R 
+ A K S H A R A 
+
+pyramid using alpha(row)
+-----------------------
+       A 
+      B B 
+     C C C 
+    D D D D 
+   E E E E E 
+  F F F F F F 
+
+pyramid using alpha(col)
+-----------------------
+       A 
+      A B 
+     A B C 
+    A B C D 
+   A B C D E 
+  A B C D E F 
+
+inverse pyramid using name(row)
+-----------------------
+A A A A A A A 
+ R R R R R R 
+  A A A A A 
+   H H H H 
+    S S S 
+     K K 
+      A 
+
+inverse pyramid using name(col)
+-----------------------
+a a k s h a r 
+ a a k s h a 
+  a a k s h 
+   a a k s 
+    a a k 
+     a a 
+      a 
+
+inverse pyramid using alpha(col)
+-----------------------
+ A B C D E F 
+  A B C D E 
+   A B C D 
+    A B C 
+     A B 
+      A 
+
+inverse pyramid using alpha(row)
+-----------------------
+ F F F F F F 
+  E E E E E 
+   D D D D 
+    C C C 
+     B B 
+      A 
